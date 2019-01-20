@@ -1,4 +1,6 @@
 class Lola::Translator
+  # Translator class
+  #
   def initialize(language)
     @language = language
   end
