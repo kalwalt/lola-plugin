@@ -5,4 +5,4 @@ class Lola
   end
 end
 
-require 'hola/translator'
+require 'lola/translator'
