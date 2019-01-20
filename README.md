@@ -1,2 +1,3 @@
 # lola-plugin
 gem plugin
+a simple test for practicing, nothing special....
